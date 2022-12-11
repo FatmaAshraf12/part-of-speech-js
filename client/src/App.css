@@ -179,3 +179,7 @@ button.reset,button.prev,button.next  {
 }
 
 
+span.correct , span.wrong{
+  display: none;
+  float: right;
+}
